@@ -2,7 +2,7 @@
     "name": "gjhuerte/php-dbwrapper",
     "description": "Database wrapper for PHP",
     "type": "library",
-    "license": "GPLv2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Gabriel Jay Huerte",
